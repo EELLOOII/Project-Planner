@@ -21,7 +21,7 @@ export default {
           let project = {
             title: this.title,
             details: this.details,
-            completed: false
+            complete: false
           }
           fetch('http://localhost:3000/projects', {
             method: 'POST',
