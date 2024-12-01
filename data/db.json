@@ -1,15 +1,22 @@
 {
   "projects": [
     {
-      "id": "1",
-      "title": "Create new homepage banner",
-      "details": "Lorem Ipsum",
-      "complete": false
-    },
-    {
       "id": "2",
       "title": "Make marketing email",
       "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "title": "Create new website",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": "f5cd",
+      "title": "Make a new component",
+      "details": "Lorem Ipsum",
+      "completed": false,
       "complete": true
     }
   ]
